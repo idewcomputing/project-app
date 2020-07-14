@@ -29,5 +29,3 @@
   * [Presentation Plan & Practice](project-instructions/3-evaluate-and-refine-solution/presentation-plan.md)
   * [FINAL DEMONSTRATION & PRESENTATION](project-instructions/3-evaluate-and-refine-solution/final.md)
 
-## Reference
-
