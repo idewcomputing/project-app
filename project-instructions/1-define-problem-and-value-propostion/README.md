@@ -1,4 +1,4 @@
-# 1 DEFINE PROBLEM & VALUE PROPOSITION
+# 1 Define Problem & Value Proposition
 
 ## Driving Question:  Which problem will you solve and what improvement do you propose?
 

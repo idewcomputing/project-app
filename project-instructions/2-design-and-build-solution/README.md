@@ -1,4 +1,4 @@
-# 2 DESIGN & BUILD SOLUTION
+# 2 Design & Build Solution
 
 ## Driving Question:  What solution will you offer and how will you design and build it?
 

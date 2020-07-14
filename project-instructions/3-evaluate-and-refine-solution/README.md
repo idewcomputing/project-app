@@ -1,4 +1,4 @@
-# 3 EVALUATE & REFINE SOLUTION
+# 3 Evaluate & Refine Solution
 
 ## Driving Question:  How effective is your solution and how will you improve it?
 
